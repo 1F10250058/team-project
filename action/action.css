@@ -1,0 +1,20 @@
+.mokuji{
+    background-color: rgb(212, 212, 212);
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    width: 20%;
+    margin: 10px 0 10px 0;
+}
+
+.content{
+    width: 80%;
+}
+
+.content h2{
+    text-align: center;
+}
