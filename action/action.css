@@ -24,8 +24,8 @@ h1{
 .sidebar{
     width: 10%;
     position: fixed;
-    left: 8%;
-    top: 30%;
+    left: 3%;
+    top: 26%;
     border: solid black 2px;
     background-color: white;
     padding-left: 15px;
@@ -60,4 +60,16 @@ h1{
     position: relative;
     top: px;
     left: 80%;
+}
+
+#no1 > p{
+    padding-left: 15%;
+}
+
+#no2 > p{
+    padding-left: 15%;
+}
+
+#link{
+    padding-left: 76%;
 }
