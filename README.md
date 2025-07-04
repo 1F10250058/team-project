@@ -1,2 +1,28 @@
-# team-project
-チームでwebページを構築する演習
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>おすすめのゲーム紹介サイト</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>ぜひやってほしい！おすすめのゲーム紹介！</h1>
+        <div class="katari"><p>このサイトではゲームに興味がある人に遊んでみてほしいゲームを紹介しています！
+            気になるジャンルや作品があったら、ぜひ見ていってください！</p></div>
+        <div id="action"><a href="http://127.0.0.1:3000/action/action.html">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbYdMOGZccrjM8MUxDupkrkv5sdiNuu-nYmKcqCesrjQlSwGF-ZXHfH-hvBJOvgKqnYYLx3Wko89L3L_SfTao0pbtaEaqPZBGMd1T1sL9udsbu7IOcV9MwjpJptUymRbr0NmUKOIhG68N4/s800/videogame_boy.png"
+        style="width: auto; height: 250px;" alt="アクションゲームのイメージ画像"></a>
+        <p><a href="http://127.0.0.1:3000/action/action.html">高難易度アクション</a></p>
+        </div>
+        <div id="open_world"><a href="../open world/open-wolrd.html">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlJtQd34YF7AeDlk-_6jcrJ0Zcyu0zm8IxFYVkD2V2e1CbO4PY7qnahPHGpi02uwqrSqzj6XZFDhyYMzLnkFJUXpu_Fltu8UjaLSrsth6I-5MnNjw3nEXx3gzpbCb7OSF-7STVCAPRyXw/s800/magari_michi.png"
+        style="width: auto; height: 250px;" alt="オープンワールドのイメージ画像"></a>
+        <p><a href="../open world/open-wolrd.html">オープンワールド</a></p>
+        </div>
+        <div id="smartphone"><a href="../game/game.html">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz4eicELxiclJtjqfVAPQjUWPrsp2R7ZvSHJyDYpATnC1G2hNuMn2VD-5D5rn5avNT8ivAa-QPC6lxuEZ_lyDiA7Te_iWA88rlqKmiGKnDcX4ACOScZadyLLlr6payCJDZ9X2Vx379FtG/s800/smartphone.png"
+        style="width: auto; height: 250px;" alt="スマホゲームのイメージ画像"></a>
+        <p><a href="../game/game.html">スマホゲーム</a></p>
+        </div>
+    </body>
+</html>
