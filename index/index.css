@@ -1,3 +1,37 @@
-.red{
-    color: red;
+h1{
+    margin-top: 70px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+
+.katari > p{
+    text-align: center;
+}
+
+#action{
+    display: inline-block;
+    padding: 110px 0 0 200px;
+}
+
+#action > p{
+    text-align: center;
+}
+
+#open_world{
+    display: inline-block;
+    padding: 110px 0 0 90px;
+}
+
+#open_world > p{
+    text-align: center;
+}
+
+#smartphone{
+    display: inline-block;
+    padding: 110px 0 0 110px;
+}
+
+#smartphone > p{
+    text-align: center;
 }
