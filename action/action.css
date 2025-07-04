@@ -25,7 +25,7 @@ h1{
     width: 10%;
     position: fixed;
     left: 3%;
-    top: 26%;
+    top: 75%;
     border: solid black 2px;
     background-color: white;
     padding-left: 15px;
@@ -70,6 +70,6 @@ h1{
     padding-left: 15%;
 }
 
-#link{
-    padding-left: 76%;
+#kousiki{
+    padding-left: 10%;
 }
